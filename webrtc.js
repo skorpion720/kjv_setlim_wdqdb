@@ -12,7 +12,6 @@ $(document).ready(function () {
   }
 });
 
-console.log('TESTTTTTTTTTTTTTTS')
 let crm = JSON.parse(localStorage.getItem("crm"));
 let crm7 = JSON.parse(localStorage.getItem("crm7"));
 let crm8 = JSON.parse(localStorage.getItem("crm8"));
